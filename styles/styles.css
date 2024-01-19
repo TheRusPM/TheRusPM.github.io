@@ -1555,7 +1555,7 @@ textarea:focus:-ms-input-placeholder {
   overflow: visible;
 }
 .events {
-  padding-top: 147px;
+  padding-top: 138px;
 }
 .events__listing {
   margin-bottom: 100px;
@@ -1619,7 +1619,7 @@ textarea:focus:-ms-input-placeholder {
       -ms-flex-pack: center;
           justify-content: center;
   gap: 67px;
-  margin: 100px 0 90px;
+  margin: 0 0 90px;
 }
 .event {
   padding: 40px 0 150px;
@@ -1655,6 +1655,7 @@ textarea:focus:-ms-input-placeholder {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  margin-bottom: 80px;
 }
 .event__info {
   -ms-flex-negative: 0;
@@ -1799,10 +1800,10 @@ textarea:focus:-ms-input-placeholder {
   margin-top: 70px;
 }
 .upcoming__link {
-  margin-top: 26px;
+  margin-top: 15px;
   margin-left: auto;
   margin-right: 30px;
-  margin-bottom: 110px;
+  margin-bottom: 121px;
 }
 .upcoming__container {
   display: -webkit-box;
@@ -2166,7 +2167,7 @@ textarea:focus:-ms-input-placeholder {
 .page-header__logo {
   display: inline-block;
   width: 202px;
-  height: 147x;
+  height: 147px;
 }
 .page-header__logo-img {
   width: 100%;
@@ -2335,8 +2336,8 @@ textarea:focus:-ms-input-placeholder {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  width: 60px;
-  height: 60px;
+  width: 58px;
+  height: 58px;
   border: none;
   outline: none;
   border-radius: 50%;
@@ -2374,7 +2375,7 @@ textarea:focus:-ms-input-placeholder {
           flex-direction: row;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  gap: 20px 60px;
+  gap: 60px;
   font-weight: 600;
   font-size: 16px;
 }
